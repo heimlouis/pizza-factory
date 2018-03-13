@@ -20,7 +20,3 @@ class Pizza {
  console.log(oneToppingPizza);
  console.log(twoToppingPizza);
  
-
-let order1 = new Order(pizzaOne, pizzaTwo, pizzaThree);
-console.log('Order1:', order1);
-console.log('Order cost for Order1:', order1.orderCost());
